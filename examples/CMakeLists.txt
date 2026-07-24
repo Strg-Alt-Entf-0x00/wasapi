@@ -16,13 +16,6 @@ add_executable(example_enumerate
 
 target_link_libraries(example_enumerate PRIVATE wasapi)
 
-# Format converter test
-add_executable(test_format_converter
-    test_format_converter.cpp
-)
-
-target_link_libraries(test_format_converter PRIVATE wasapi)
-
 # Debug clamping
 add_executable(debug_clamping
     debug_clamping.cpp
@@ -74,8 +67,8 @@ target_link_libraries(session_events PRIVATE wasapi)
 
 # Installation (optional)
 install(TARGETS
-        example_playback example_enumerate test_format_converter
+        example_playback example_enumerate
         record_microphone record_loopback full_duplex_echo
-        hot_plug_demo peak_meter session_events
+        hot_plug_demo peak_meter session_events debug_clamping
     RUNTIME DESTINATION bin/examples
 )

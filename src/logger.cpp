@@ -4,7 +4,7 @@
  * Logger Implementation
  *
  * License: MIT
- * Author: AI-Projects Team
+ * Author: Strg-Alt-Entf-0x00
  ***************************************************************************/
 
 #include "wasapi_log.h"

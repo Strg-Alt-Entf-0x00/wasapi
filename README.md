@@ -1,6 +1,6 @@
 # WASAPI - Windows Audio Library
 
-[![Version](https://img.shields.io/badge/version-0.9.2-blue.svg)](https://github.com/KernelMeltdown/wasapi)
+[![Version](https://img.shields.io/badge/version-0.9.2-blue.svg)](https://github.com/Strg-Alt-Entf-0x00/wasapi)
 [![License](https://img.shields.io/badge/license-Public%20Domain-green.svg)](LICENSE)
 [![C++](https://img.shields.io/badge/C++-20-orange.svg)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)

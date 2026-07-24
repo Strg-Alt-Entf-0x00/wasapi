@@ -5,7 +5,7 @@
  * Optional Logger Adapter: core::Logger integration
  *
  * Bridges wasapi internal logging to the project-wide core::Logger
- * (D:\AI-Projects\third-party-cpp\logger).
+ * (logger library).
  *
  * Usage (once at application startup):
  *

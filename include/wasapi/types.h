@@ -5,7 +5,7 @@
  * Core Type Definitions
  *
  * License: MIT
- * Author: AI-Projects Team
+ * Author: Strg-Alt-Entf-0x00
  * Date: 2026-06-08
  * Updated: 2026-06-19 (v2.0.0 - LatencyMode, AudioPosition, SessionEvent)
  ***************************************************************************/

@@ -7,7 +7,7 @@
  * By default wasapi emits NO log output (zero overhead).
  * To receive log messages, register a callback via setLogCallback().
  *
- * For core::Logger integration (D:\AI-Projects\third-party-cpp\logger),
+ * For core::Logger integration (logger library),
  * include wasapi/logger_adapter.h after core/logger.hpp and call
  * wasapi::connectCoreLogger() once at startup.
  *
@@ -18,7 +18,7 @@
  *   The callback is NEVER called from the real-time audio thread.
  *
  * License: MIT
- * Author: AI-Projects Team
+ * Author: Strg-Alt-Entf-0x00
  ***************************************************************************/
 
 #include <functional>

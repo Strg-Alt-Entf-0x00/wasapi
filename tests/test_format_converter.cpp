@@ -6,7 +6,7 @@
  * Tests all audio format conversions for correctness and performance.
  * 
  * License: MIT
- * Author: AI-Projects Team
+ * Author: Strg-Alt-Entf-0x00
  * Date: 2026-06-09
  ***************************************************************************/
 

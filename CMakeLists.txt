@@ -12,7 +12,7 @@
 # - Modern C++20 (RAII, PIMPL, concepts)
 #
 # License: MIT
-# Author: AI-Projects Team
+# Author: Strg-Alt-Entf-0x00
 # ============================================================================
 
 cmake_minimum_required(VERSION 3.20)
